@@ -1,10 +1,12 @@
 # Interview Questions
 
 ## Instructions
-These questions are given to candidates and completed in writing before the actual interview.
+These questions are given to candidates before the actual interview.
+Candidates provide written responses to the questions.
+Interviewers read and prepare for the in person interview based on the written responses.
 Considered answers are better than off the cuff responses.
 
-A few items of explanation:
+By way of  explanation:
 * We call small teams "pods"
 
 ## Questions
