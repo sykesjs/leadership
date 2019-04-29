@@ -2,6 +2,9 @@
 
 Various materials related to Leadership.
 
+## 
+* [Basic Tools for Becoming a People Manager](managers_tools_intro.md) - Some good basic tools for being a people manager.
+
 ## Selecting New Leaders
 
 * invitation_to_participate_email.md - Email to start Process.
