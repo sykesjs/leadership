@@ -7,6 +7,6 @@ Various materials related to Leadership.
 
 ## Selecting New Leaders
 
-* invitation_to_participate_email.md - Email to start Process.
-* interview_questions.md - Questions for Candidates to complete?
-* follow_up_email.md - followup feedback request from candidates.
+* [Intro Email](invitation_to_participate_email.md) - Email to start Process.
+* [Interview Questions](interview_questions.md) - Questions for Candidates to complete - recommend having them complete in written form and then having in-person interview explore answers.
+* [Follow-up Email for Candidate Feedback](follow_up_email.md) - Requesting feedback is key to closing the loop and improving the process.
